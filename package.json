@@ -1,0 +1,14 @@
+{
+  "name": "ghaction-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:daviesesiro/ghaction-practice.git",
+  "author": "daviesesiro <ojurereoluwad@gmail.com>",
+  "license": "MIT",
+  "scripts":{
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
